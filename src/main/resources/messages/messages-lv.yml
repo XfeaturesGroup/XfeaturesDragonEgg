@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Latviešu valodas fails (Latvian)
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cTev nav atļaujas to darīt!"
+unknown-command: "%prefix%&cNezināma komanda! Izmanto &e/dragonegg help"
+reload-success: "%prefix%&aKonfigurācija veiksmīgi pārlādēta!"
+
+# Containers
+container-blocked: "%prefix%&cTu nevari ielikt Pūķa olu &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Pūķa olas atrašanās vieta ==="
+where-in-inventory: "%prefix%&ePūķa ola atrodas spēlētāja &b%player% &einventārā koordinātās &b%x%&e, &b%y%&e, &b%z% &epasaulē &b%world%"
+where-in-chest: "%prefix%&ePūķa ola atrodas lādē koordinātās &b%x%&e, &b%y%&e, &b%z% &epasaulē &b%world%"
+where-as-block: "%prefix%&ePūķa ola ir novietota kā bloks koordinātās &b%x%&e, &b%y%&e, &b%z% &epasaulē &b%world%"
+where-placed-by: "%prefix%&7Novietoja: &f%player%"
+where-last-touched-by: "%prefix%&7Pēdējais aiztika: &f%player%"
+where-duration: "%prefix%&7Laiks: &f%duration%"
+where-player-offline: "%prefix%&7(Spēlētājs ir bezsaistē)"
+where-player-online: "%prefix%&7(Spēlētājs ir tiešsaistē)"
+where-not-found: "%prefix%&cPūķa olas atrašanās vieta nav zināma!"
+
+# Language
+language-usage: "%prefix%&cLietojums: &e/dragonegg language <valoda>"
+language-not-found: "%prefix%&cValodas fails &e%language% &cnav atrasts!"
+language-changed: "%prefix%&aValoda veiksmīgi nomainīta uz &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg Palīdzība ==="
+help-where: "&e/dragonegg where &7- Parādīt Pūķa olas atrašanās vietu"
+help-language: "&e/dragonegg language <valoda> &7- Mainīt spraudņa valodu"
+help-reload: "&e/dragonegg reload &7- Pārlādēt konfigurāciju"
+help-help: "&e/dragonegg help &7- Parādīt šo palīdzības ziņojumu"
+
+# Time
+time-days: "%days%d "
+time-hours: "%hours%s "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"
+where-dropped: "%prefix%&ePūķa Ola ir nomesta &b%x%&e, &b%y%&e, &b%z% &epasaulē &b%world%"

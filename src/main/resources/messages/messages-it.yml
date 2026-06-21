@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Italian Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cNon hai il permesso di farlo!"
+unknown-command: "%prefix%&cComando sconosciuto! Usa &e/dragonegg help"
+reload-success: "%prefix%&aConfigurazione ricaricata con successo!"
+
+# Containers
+container-blocked: "%prefix%&cNon puoi piazzare l'Uovo di Drago in &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Posizione dell'Uovo di Drago ==="
+where-in-inventory: "%prefix%&eL'Uovo di Drago è nell'inventario di &b%player%&e a &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-in-chest: "%prefix%&eL'Uovo di Drago è in una cassa a &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-as-block: "%prefix%&eL'Uovo di Drago è piazzato come blocco a &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-placed-by: "%prefix%&7Piazzato da: &f%player%"
+where-last-touched-by: "%prefix%&7Toccato per l'ultima volta da: &f%player%"
+where-duration: "%prefix%&7Tempo: &f%duration%"
+where-player-offline: "%prefix%&7(Giocatore offline)"
+where-player-online: "%prefix%&7(Giocatore online)"
+where-not-found: "%prefix%&cLa posizione dell'Uovo di Drago è sconosciuta!"
+
+# Language
+language-usage: "%prefix%&cUso: &e/dragonegg language <lingua>"
+language-not-found: "%prefix%&cFile di lingua &e%language% &cnon trovato!"
+language-changed: "%prefix%&aLingua cambiata con successo in &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== Aiuto DragonEgg ==="
+help-where: "&e/dragonegg where &7- Mostra la posizione dell'Uovo di Drago"
+help-language: "&e/dragonegg language <lang> &7- Cambia la lingua del plugin"
+help-reload: "&e/dragonegg reload &7- Ricarica la configurazione"
+help-help: "&e/dragonegg help &7- Mostra questo messaggio di aiuto"
+
+# Time
+time-days: "%days%g "
+time-hours: "%hours%h "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"
+where-dropped: "%prefix%&eL'Uovo di Drago è caduto a &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"

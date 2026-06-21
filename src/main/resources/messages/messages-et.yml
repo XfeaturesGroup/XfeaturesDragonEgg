@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Estonian Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cSul ei ole selleks õigusi!"
+unknown-command: "%prefix%&cTundmatu käsk! Kasuta &e/dragonegg help"
+reload-success: "%prefix%&aKonfiguratsioon on edukalt uuesti laaditud!"
+
+# Containers
+container-blocked: "%prefix%&cSa ei saa Draakonimuna panna &e%container%&c sisse!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Draakonimuna asukoht ==="
+where-in-inventory: "%prefix%&eDraakonimuna on mängija &b%player%&e inventaris asukohas &b%x%&e, &b%y%&e, &b%z% &emaailmas &b%world%"
+where-in-chest: "%prefix%&eDraakonimuna on kirstus asukohas &b%x%&e, &b%y%&e, &b%z% &emaailmas &b%world%"
+where-as-block: "%prefix%&eDraakonimuna on pandud plokina asukohas &b%x%&e, &b%y%&e, &b%z% &emaailmas &b%world%"
+where-placed-by: "%prefix%&7Paigaldas: &f%player%"
+where-last-touched-by: "%prefix%&7Viimati puutus: &f%player%"
+where-duration: "%prefix%&7Aeg: &f%duration%"
+where-player-offline: "%prefix%&7(Mängija on offline)"
+where-player-online: "%prefix%&7(Mängija on online)"
+where-not-found: "%prefix%&cDraakonimuna asukoht on teadmata!"
+
+# Language
+language-usage: "%prefix%&cKasutamine: &e/dragonegg language <keel>"
+language-not-found: "%prefix%&cKeele faili &e%language% &cei leitud!"
+language-changed: "%prefix%&aKeel edukalt muudetud keeleks &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg Abi ==="
+help-where: "&e/dragonegg where &7- Näita Draakonimuna asukohta"
+help-language: "&e/dragonegg language <lang> &7- Muuda plugina keelt"
+help-reload: "&e/dragonegg reload &7- Lae konfiguratsioon uuesti"
+help-help: "&e/dragonegg help &7- Näita seda abisõnumit"
+
+# Time
+time-days: "%days%p "
+time-hours: "%hours%t "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"
+where-dropped: "%prefix%&eDraakonimuna on maha visatud asukohas &b%x%&e, &b%y%&e, &b%z% &emaailmas &b%world%"

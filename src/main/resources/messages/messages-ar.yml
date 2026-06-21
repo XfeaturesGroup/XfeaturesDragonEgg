@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Arabic Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cليس لديك إذن للقيام بذلك!"
+unknown-command: "%prefix%&cأمر غير معروف! استخدم &e/dragonegg help"
+reload-success: "%prefix%&aتمت إعادة تحميل التكوين بنجاح!"
+
+# Containers
+container-blocked: "%prefix%&cلا يمكنك وضع بيضة التنين في &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== موقع بيضة التنين ==="
+where-in-inventory: "%prefix%&eبيضة التنين في مخزون &b%player%&e عند &b%x%&e, &b%y%&e, &b%z% &eفي &b%world%"
+where-in-chest: "%prefix%&eبيضة التنين في صندوق عند &b%x%&e, &b%y%&e, &b%z% &eفي &b%world%"
+where-as-block: "%prefix%&eتم وضع بيضة التنين ككتلة عند &b%x%&e, &b%y%&e, &b%z% &eفي &b%world%"
+where-placed-by: "%prefix%&7تم وضعه بواسطة: &f%player%"
+where-last-touched-by: "%prefix%&7آخر من لمسه: &f%player%"
+where-duration: "%prefix%&7الوقت: &f%duration%"
+where-player-offline: "%prefix%&7(اللاعب غير متصل)"
+where-player-online: "%prefix%&7(اللاعب متصل)"
+where-not-found: "%prefix%&cموقع بيضة التنين غير معروف!"
+
+# Language
+language-usage: "%prefix%&cالاستخدام: &e/dragonegg language <language>"
+language-not-found: "%prefix%&cملف اللغة &e%language% &cغير موجود!"
+language-changed: "%prefix%&aتم تغيير اللغة بنجاح إلى &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== مساعدة DragonEgg ==="
+help-where: "&e/dragonegg where &7- عرض موقع بيضة التنين"
+help-language: "&e/dragonegg language <lang> &7- تغيير لغة الإضافة"
+help-reload: "&e/dragonegg reload &7- إعادة تحميل التكوين"
+help-help: "&e/dragonegg help &7- عرض رسالة المساعدة هذه"
+
+# Time
+time-days: "%days%ي "
+time-hours: "%hours%س "
+time-minutes: "%minutes%د "
+time-seconds: "%seconds%ث"
+where-dropped: "%prefix%&eتم إسقاط بيضة التنين عند &b%x%&e, &b%y%&e, &b%z% &eفي &b%world%"

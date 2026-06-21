@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - German Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cDu hast keine Berechtigung dafür!"
+unknown-command: "%prefix%&cUnbekannter Befehl! Nutze &e/dragonegg help"
+reload-success: "%prefix%&aKonfiguration erfolgreich neu geladen!"
+
+# Containers
+container-blocked: "%prefix%&cDu kannst das Drachenei nicht in &e%container%&c legen!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Drachenei-Position ==="
+where-in-inventory: "%prefix%&eDas Drachenei ist im Inventar von &b%player%&e bei &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-in-chest: "%prefix%&eDas Drachenei ist in einer Truhe bei &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-as-block: "%prefix%&eDas Drachenei ist platziert als Block bei &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-placed-by: "%prefix%&7Platziert von: &f%player%"
+where-last-touched-by: "%prefix%&7Zuletzt berührt von: &f%player%"
+where-duration: "%prefix%&7Zeit: &f%duration%"
+where-player-offline: "%prefix%&7(Spieler ist offline)"
+where-player-online: "%prefix%&7(Spieler ist online)"
+where-not-found: "%prefix%&cDrachenei-Position ist unbekannt!"
+
+# Language
+language-usage: "%prefix%&cNutzung: &e/dragonegg language <sprache>"
+language-not-found: "%prefix%&cSprachdatei &e%language% &cnicht gefunden!"
+language-changed: "%prefix%&aSprache erfolgreich zu &e%language% &ageändert!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg Hilfe ==="
+help-where: "&e/dragonegg where &7- Zeige Drachenei-Position"
+help-language: "&e/dragonegg language <lang> &7- Plugin-Sprache ändern"
+help-reload: "&e/dragonegg reload &7- Konfiguration neu laden"
+help-help: "&e/dragonegg help &7- Zeige diese Hilfenachricht"
+
+# Time
+time-days: "%days%T "
+time-hours: "%hours%Std "
+time-minutes: "%minutes%Min "
+time-seconds: "%seconds%Sek"
+where-dropped: "%prefix%&eDas Drachenei ist fallen gelassen bei &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"

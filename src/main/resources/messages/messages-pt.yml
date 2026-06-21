@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Portuguese Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cVocê não tem permissão para fazer isso!"
+unknown-command: "%prefix%&cComando desconhecido! Use &e/dragonegg help"
+reload-success: "%prefix%&aConfiguração recarregada com sucesso!"
+
+# Containers
+container-blocked: "%prefix%&cVocê não pode colocar o Ovo de Dragão em &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Localização do Ovo de Dragão ==="
+where-in-inventory: "%prefix%&eO Ovo de Dragão está no inventário de &b%player%&e em &b%x%&e, &b%y%&e, &b%z% &eno mundo &b%world%"
+where-in-chest: "%prefix%&eO Ovo de Dragão está em um baú em &b%x%&e, &b%y%&e, &b%z% &eno mundo &b%world%"
+where-as-block: "%prefix%&eO Ovo de Dragão está colocado como um bloco em &b%x%&e, &b%y%&e, &b%z% &eno mundo &b%world%"
+where-placed-by: "%prefix%&7Colocado por: &f%player%"
+where-last-touched-by: "%prefix%&7Tocado por último por: &f%player%"
+where-duration: "%prefix%&7Tempo: &f%duration%"
+where-player-offline: "%prefix%&7(Jogador está offline)"
+where-player-online: "%prefix%&7(Jogador está online)"
+where-not-found: "%prefix%&cA localização do Ovo de Dragão é desconhecida!"
+
+# Language
+language-usage: "%prefix%&cUso: &e/dragonegg language <idioma>"
+language-not-found: "%prefix%&cArquivo de idioma &e%language% &cnão encontrado!"
+language-changed: "%prefix%&aIdioma alterado com sucesso para &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== Ajuda do DragonEgg ==="
+help-where: "&e/dragonegg where &7- Mostra a localização do Ovo de Dragão"
+help-language: "&e/dragonegg language <lang> &7- Altera o idioma do plugin"
+help-reload: "&e/dragonegg reload &7- Recarrega a configuração"
+help-help: "&e/dragonegg help &7- Mostra esta mensagem de ajuda"
+
+# Time
+time-days: "%days%d "
+time-hours: "%hours%h "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"
+where-dropped: "%prefix%&eO Ovo de Dragão está caído em &b%x%&e, &b%y%&e, &b%z% &eno mundo &b%world%"

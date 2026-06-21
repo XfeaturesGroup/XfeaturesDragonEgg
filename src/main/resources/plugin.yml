@@ -1,0 +1,34 @@
+name: XfeaturesDragonEgg
+version: '${project.version}'
+main: net.xfeatures.XfeaturesDragonEgg
+api-version: '1.21'
+load: POSTWORLD
+authors: [XfeaturesGroup]
+description: Dragon Egg tracking, protection and visual effects
+
+commands:
+  dragonegg:
+    description: Main command for DragonEgg plugin
+    usage: /dragonegg [where|language|reload|help]
+    aliases: [egg, degg]
+    permission: xfeatures.dragonegg.use
+
+permissions:
+  xfeatures.dragonegg.use:
+    description: Access to the main DragonEgg command
+    default: true
+  xfeatures.dragonegg.where:
+    description: Check Dragon Egg location
+    default: op
+  xfeatures.dragonegg.language:
+    description: Change plugin language
+    default: op
+  xfeatures.dragonegg.reload:
+    description: Reload the plugin configuration
+    default: op
+  xfeatures.dragonegg.bypass:
+    description: Bypass container restrictions for Dragon Egg
+    default: op
+  xfeatures.dragonegg.effects:
+    description: Receive visual effects when carrying the egg
+    default: true

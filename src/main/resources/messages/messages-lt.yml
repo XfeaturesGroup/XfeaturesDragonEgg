@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Lithuanian Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cNeturite leidimo tai daryti!"
+unknown-command: "%prefix%&cNežinoma komanda! Naudokite &e/dragonegg help"
+reload-success: "%prefix%&aKonfigūracija sėkmingai įkelta iš naujo!"
+
+# Containers
+container-blocked: "%prefix%&cNegalite įdėti Drakono Kiaušinio į &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Drakono Kiaušinio vieta ==="
+where-in-inventory: "%prefix%&eDrakono Kiaušinis yra žaidėjo &b%player%&e inventoriuje &b%x%&e, &b%y%&e, &b%z% &epasaulyje &b%world%"
+where-in-chest: "%prefix%&eDrakono Kiaušinis yra skrynioje &b%x%&e, &b%y%&e, &b%z% &epasaulyje &b%world%"
+where-as-block: "%prefix%&eDrakono Kiaušinis padėtas kaip blokas &b%x%&e, &b%y%&e, &b%z% &epasaulyje &b%world%"
+where-placed-by: "%prefix%&7Padėjo: &f%player%"
+where-last-touched-by: "%prefix%&7Paskutinį kartą lietė: &f%player%"
+where-duration: "%prefix%&7Laikas: &f%duration%"
+where-player-offline: "%prefix%&7(Žaidėjas atsijungęs)"
+where-player-online: "%prefix%&7(Žaidėjas prisijungęs)"
+where-not-found: "%prefix%&cDrakono Kiaušinio vieta nežinoma!"
+
+# Language
+language-usage: "%prefix%&cNaudojimas: &e/dragonegg language <kalba>"
+language-not-found: "%prefix%&cKalbos failas &e%language% &cnerastas!"
+language-changed: "%prefix%&aKalba sėkmingai pakeista į &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg Pagalba ==="
+help-where: "&e/dragonegg where &7- Rodyti Drakono Kiaušinio vietą"
+help-language: "&e/dragonegg language <lang> &7- Pakeisti įskiepio kalbą"
+help-reload: "&e/dragonegg reload &7- Iš naujo įkelti konfigūraciją"
+help-help: "&e/dragonegg help &7- Rodyti šią pagalbos žinutę"
+
+# Time
+time-days: "%days%d "
+time-hours: "%hours%v "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"
+where-dropped: "%prefix%&eDrakono Kiaušinis yra numestas &b%x%&e, &b%y%&e, &b%z% &epasaulyje &b%world%"

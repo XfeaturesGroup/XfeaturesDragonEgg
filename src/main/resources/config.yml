@@ -1,0 +1,42 @@
+# All available languages can be found here:
+# https://github.com/XfeaturesGroup/XfeaturesDragonEgg/tree/master/examples/messages
+# Language settings for the plugin
+language: "en"
+
+# Container protection
+protection:
+  enabled: true
+  # List of blocked container types
+  # The egg can ONLY be placed in a normal CHEST or TRAPPED_CHEST
+  blocked-containers:
+    - ENDER_CHEST
+    - SHULKER_BOX
+    - BUNDLE
+    - DISPENSER
+    - DROPPER
+    - FURNACE
+    - BLAST_FURNACE
+    - SMOKER
+    - BREWING_STAND
+    - HOPPER
+    - BARREL
+    - CRAFTER
+
+# Visual effects when carrying the egg
+effects:
+  enabled: true
+  # Player glowing effect (pink/purple color)
+  glowing:
+    enabled: true
+    color: "LIGHT_PURPLE"
+  # END_ROD particles around the player
+  particles:
+    enabled: true
+    type: "END_ROD"
+    count: 3
+    interval: 10
+
+# Egg tracking
+tracking:
+  enabled: true
+  persistent: true

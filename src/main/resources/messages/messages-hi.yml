@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Hindi Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cआपको यह करने की अनुमति नहीं है!"
+unknown-command: "%prefix%&cअज्ञात कमांड! &e/dragonegg help &cका उपयोग करें"
+reload-success: "%prefix%&aकॉन्फ़िगरेशन सफलतापूर्वक पुनः लोड किया गया!"
+
+# Containers
+container-blocked: "%prefix%&cआप ड्रैगन एग को &e%container%&c में नहीं रख सकते!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== ड्रैगन एग स्थान ==="
+where-in-inventory: "%prefix%&eड्रैगन एग &b%player%&e की इन्वेंट्री में &b%x%&e, &b%y%&e, &b%z% &e(&b%world%&e) पर है"
+where-in-chest: "%prefix%&eड्रैगन एग एक चेस्ट में &b%x%&e, &b%y%&e, &b%z% &e(&b%world%&e) पर है"
+where-as-block: "%prefix%&eड्रैगन एग एक ब्लॉक के रूप में &b%x%&e, &b%y%&e, &b%z% &e(&b%world%&e) पर रखा गया है"
+where-placed-by: "%prefix%&7द्वारा रखा गया: &f%player%"
+where-last-touched-by: "%prefix%&7अंतिम बार छुआ गया: &f%player%"
+where-duration: "%prefix%&7समय: &f%duration%"
+where-player-offline: "%prefix%&7(खिलाड़ी ऑफ़लाइन है)"
+where-player-online: "%prefix%&7(खिलाड़ी ऑनलाइन है)"
+where-not-found: "%prefix%&cड्रैगन एग का स्थान अज्ञात है!"
+
+# Language
+language-usage: "%prefix%&cउपयोग: &e/dragonegg language <भाषा>"
+language-not-found: "%prefix%&cभाषा फ़ाइल &e%language% &cनहीं मिली!"
+language-changed: "%prefix%&aभाषा सफलतापूर्वक &e%language%&a में बदल दी गई!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg सहायता ==="
+help-where: "&e/dragonegg where &7- ड्रैगन एग का स्थान दिखाएँ"
+help-language: "&e/dragonegg language <lang> &7- प्लगइन भाषा बदलें"
+help-reload: "&e/dragonegg reload &7- कॉन्फ़िगरेशन पुनः लोड करें"
+help-help: "&e/dragonegg help &7- यह सहायता संदेश दिखाएँ"
+
+# Time
+time-days: "%days%दिन "
+time-hours: "%hours%घंटे "
+time-minutes: "%minutes%मिनट "
+time-seconds: "%seconds%सेकंड"
+where-dropped: "%prefix%&eड्रैगन एग गिराया गया है &b%x%&e, &b%y%&e, &b%z% &e(&b%world%&e) पर"

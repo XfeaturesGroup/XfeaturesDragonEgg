@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Русский языковой файл
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cУ вас нет прав для этого действия!"
+unknown-command: "%prefix%&cНеизвестная команда! Используйте &e/dragonegg help"
+reload-success: "%prefix%&aКонфигурация успешно перезагружена!"
+
+# Containers
+container-blocked: "%prefix%&cВы не можете поместить Яйцо Дракона в &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Местоположение Яйца Дракона ==="
+where-in-inventory: "%prefix%&eЯйцо Дракона в инвентаре игрока &b%player% &eна &b%x%&e, &b%y%&e, &b%z% &eв мире &b%world%"
+where-in-chest: "%prefix%&eЯйцо Дракона в сундуке на &b%x%&e, &b%y%&e, &b%z% &eв мире &b%world%"
+where-as-block: "%prefix%&eЯйцо Дракона стоит как блок на &b%x%&e, &b%y%&e, &b%z% &eв мире &b%world%"
+where-placed-by: "%prefix%&7Поставил: &f%player%"
+where-last-touched-by: "%prefix%&7Последний трогал: &f%player%"
+where-duration: "%prefix%&7Время: &f%duration%"
+where-player-offline: "%prefix%&7(Игрок офлайн)"
+where-player-online: "%prefix%&7(Игрок онлайн)"
+where-not-found: "%prefix%&cМестоположение Яйца Дракона неизвестно!"
+
+# Language
+language-usage: "%prefix%&cИспользование: &e/dragonegg language <язык>"
+language-not-found: "%prefix%&cЯзыковой файл &e%language% &cне найден!"
+language-changed: "%prefix%&aЯзык успешно изменен на &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== Помощь DragonEgg ==="
+help-where: "&e/dragonegg where &7- Местоположение Яйца Дракона"
+help-language: "&e/dragonegg language <язык> &7- Изменить язык плагина"
+help-reload: "&e/dragonegg reload &7- Перезагрузить конфигурацию"
+help-help: "&e/dragonegg help &7- Показать эту справку"
+
+# Time
+time-days: "%days%д "
+time-hours: "%hours%ч "
+time-minutes: "%minutes%м "
+time-seconds: "%seconds%с"
+where-dropped: "%prefix%&eЯйцо Дракона валяется на земле на &b%x%&e, &b%y%&e, &b%z% &eв мире &b%world%"

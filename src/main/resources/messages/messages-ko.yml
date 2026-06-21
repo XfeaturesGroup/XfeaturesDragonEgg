@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Korean Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&c이 작업을 수행할 권한이 없습니다!"
+unknown-command: "%prefix%&c알 수 없는 명령입니다! &e/dragonegg help &c를 사용하세요"
+reload-success: "%prefix%&a구성이 성공적으로 다시 로드되었습니다!"
+
+# Containers
+container-blocked: "%prefix%&c드래곤 알을 &e%container%&c 에 배치할 수 없습니다!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== 드래곤 알 위치 ==="
+where-in-inventory: "%prefix%&e드래곤 알은 &b%player%&e 의 인벤토리(&b%x%&e, &b%y%&e, &b%z% &e월드: &b%world%&e)에 있습니다"
+where-in-chest: "%prefix%&e드래곤 알은 상자(&b%x%&e, &b%y%&e, &b%z% &e월드: &b%world%&e)에 있습니다"
+where-as-block: "%prefix%&e드래곤 알은 블록으로 배치되었습니다(&b%x%&e, &b%y%&e, &b%z% &e월드: &b%world%&e)"
+where-placed-by: "%prefix%&7배치자: &f%player%"
+where-last-touched-by: "%prefix%&7마지막으로 만진 사람: &f%player%"
+where-duration: "%prefix%&7시간: &f%duration%"
+where-player-offline: "%prefix%&7(플레이어가 오프라인입니다)"
+where-player-online: "%prefix%&7(플레이어가 온라인입니다)"
+where-not-found: "%prefix%&c드래곤 알의 위치를 알 수 없습니다!"
+
+# Language
+language-usage: "%prefix%&c사용법: &e/dragonegg language <언어>"
+language-not-found: "%prefix%&c언어 파일 &e%language% &c을(를) 찾을 수 없습니다!"
+language-changed: "%prefix%&a언어가 &e%language%&a (으)로 성공적으로 변경되었습니다!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg 도움말 ==="
+help-where: "&e/dragonegg where &7- 드래곤 알의 위치 표시"
+help-language: "&e/dragonegg language <lang> &7- 플러그인 언어 변경"
+help-reload: "&e/dragonegg reload &7- 구성 다시 로드"
+help-help: "&e/dragonegg help &7- 이 도움말 메시지 표시"
+
+# Time
+time-days: "%days%일 "
+time-hours: "%hours%시간 "
+time-minutes: "%minutes%분 "
+time-seconds: "%seconds%초"
+where-dropped: "%prefix%&e드래곤 알이 바닥에 떨어져 있습니다(&b%x%&e, &b%y%&e, &b%z% &e월드: &b%world%&e)"

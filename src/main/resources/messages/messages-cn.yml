@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Chinese Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&c你没有权限这样做！"
+unknown-command: "%prefix%&c未知命令！请使用 &e/dragonegg help"
+reload-success: "%prefix%&a配置重载成功！"
+
+# Containers
+container-blocked: "%prefix%&c你不能把龙蛋放在 &e%container%&c 里！"
+
+# /dragonegg where
+where-header: "%prefix%&6=== 龙蛋位置 ==="
+where-in-inventory: "%prefix%&e龙蛋在 &b%player%&e 的背包中，坐标 &b%x%&e, &b%y%&e, &b%z% &e世界 &b%world%"
+where-in-chest: "%prefix%&e龙蛋在箱子中，坐标 &b%x%&e, &b%y%&e, &b%z% &e世界 &b%world%"
+where-as-block: "%prefix%&e龙蛋作为方块放置在 &b%x%&e, &b%y%&e, &b%z% &e世界 &b%world%"
+where-placed-by: "%prefix%&7放置者：&f%player%"
+where-last-touched-by: "%prefix%&7最后接触者：&f%player%"
+where-duration: "%prefix%&7时间：&f%duration%"
+where-player-offline: "%prefix%&7(玩家离线)"
+where-player-online: "%prefix%&7(玩家在线)"
+where-not-found: "%prefix%&c龙蛋位置未知！"
+
+# Language
+language-usage: "%prefix%&c用法：&e/dragonegg language <语言>"
+language-not-found: "%prefix%&c未找到语言文件 &e%language% &c！"
+language-changed: "%prefix%&a语言已成功更改为 &e%language%&a！"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg 帮助 ==="
+help-where: "&e/dragonegg where &7- 显示龙蛋位置"
+help-language: "&e/dragonegg language <lang> &7- 更改插件语言"
+help-reload: "&e/dragonegg reload &7- 重载配置"
+help-help: "&e/dragonegg help &7- 显示此帮助信息"
+
+# Time
+time-days: "%days%天 "
+time-hours: "%hours%小时 "
+time-minutes: "%minutes%分 "
+time-seconds: "%seconds%秒"
+where-dropped: "%prefix%&e龙蛋掉落在坐标 &b%x%&e, &b%y%&e, &b%z% &e世界 &b%world%"

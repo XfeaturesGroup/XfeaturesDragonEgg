@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Japanese Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cあなたにはこれを行う権限がありません！"
+unknown-command: "%prefix%&c不明なコマンドです！&e/dragonegg help &cを使用してください"
+reload-success: "%prefix%&a設定が正常に再読み込みされました！"
+
+# Containers
+container-blocked: "%prefix%&cドラゴンの卵を &e%container%&c に配置することはできません！"
+
+# /dragonegg where
+where-header: "%prefix%&6=== ドラゴンの卵の位置 ==="
+where-in-inventory: "%prefix%&eドラゴンの卵は &b%player%&e のインベントリ内にあります（&b%x%&e, &b%y%&e, &b%z% &eワールド：&b%world%&e）"
+where-in-chest: "%prefix%&eドラゴンの卵はチェスト内にあります（&b%x%&e, &b%y%&e, &b%z% &eワールド：&b%world%&e）"
+where-as-block: "%prefix%&eドラゴンの卵はブロックとして配置されています（&b%x%&e, &b%y%&e, &b%z% &eワールド：&b%world%&e）"
+where-placed-by: "%prefix%&7配置者：&f%player%"
+where-last-touched-by: "%prefix%&7最後に触れた人：&f%player%"
+where-duration: "%prefix%&7時間：&f%duration%"
+where-player-offline: "%prefix%&7(プレイヤーはオフラインです)"
+where-player-online: "%prefix%&7(プレイヤーはオンラインです)"
+where-not-found: "%prefix%&cドラゴンの卵の位置は不明です！"
+
+# Language
+language-usage: "%prefix%&c使用法：&e/dragonegg language <言語>"
+language-not-found: "%prefix%&c言語ファイル &e%language% &cが見つかりません！"
+language-changed: "%prefix%&a言語が &e%language%&a に正常に変更されました！"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg ヘルプ ==="
+help-where: "&e/dragonegg where &7- ドラゴンの卵の位置を表示する"
+help-language: "&e/dragonegg language <lang> &7- プラグインの言語を変更する"
+help-reload: "&e/dragonegg reload &7- 設定を再読み込みする"
+help-help: "&e/dragonegg help &7- このヘルプメッセージを表示する"
+
+# Time
+time-days: "%days%日 "
+time-hours: "%hours%時間 "
+time-minutes: "%minutes%分 "
+time-seconds: "%seconds%秒"
+where-dropped: "%prefix%&eドラゴンの卵はドロップされています（&b%x%&e, &b%y%&e, &b%z% &eワールド：&b%world%&e）"

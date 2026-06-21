@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Turkish Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cBunu yapmak için izniniz yok!"
+unknown-command: "%prefix%&cBilinmeyen komut! &e/dragonegg help &ckullanın"
+reload-success: "%prefix%&aYapılandırma başarıyla yeniden yüklendi!"
+
+# Containers
+container-blocked: "%prefix%&cEjderha Yumurtasını &e%container%&c içine koyamazsınız!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Ejderha Yumurtası Konumu ==="
+where-in-inventory: "%prefix%&eEjderha Yumurtası &b%player%&e adlı oyuncunun envanterinde, &b%world% &edünyasında &b%x%&e, &b%y%&e, &b%z% &ekonumunda"
+where-in-chest: "%prefix%&eEjderha Yumurtası bir sandıkta, &b%world% &edünyasında &b%x%&e, &b%y%&e, &b%z% &ekonumunda"
+where-as-block: "%prefix%&eEjderha Yumurtası bir blok olarak yerleştirildi, &b%world% &edünyasında &b%x%&e, &b%y%&e, &b%z% &ekonumunda"
+where-placed-by: "%prefix%&7Yerleştiren: &f%player%"
+where-last-touched-by: "%prefix%&7Son dokunan: &f%player%"
+where-duration: "%prefix%&7Süre: &f%duration%"
+where-player-offline: "%prefix%&7(Oyuncu çevrimdışı)"
+where-player-online: "%prefix%&7(Oyuncu çevrimiçi)"
+where-not-found: "%prefix%&cEjderha Yumurtasının konumu bilinmiyor!"
+
+# Language
+language-usage: "%prefix%&cKullanım: &e/dragonegg language <dil>"
+language-not-found: "%prefix%&cDil dosyası &e%language% &cbulunamadı!"
+language-changed: "%prefix%&aDil başarıyla &e%language% &aolarak değiştirildi!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg Yardım ==="
+help-where: "&e/dragonegg where &7- Ejderha Yumurtasının konumunu gösterir"
+help-language: "&e/dragonegg language <lang> &7- Eklenti dilini değiştirir"
+help-reload: "&e/dragonegg reload &7- Yapılandırmayı yeniden yükler"
+help-help: "&e/dragonegg help &7- Bu yardım mesajını gösterir"
+
+# Time
+time-days: "%days%g "
+time-hours: "%hours%s "
+time-minutes: "%minutes%d "
+time-seconds: "%seconds%sn"
+where-dropped: "%prefix%&eEjderha Yumurtası yere düştü, &b%world% &edünyasında &b%x%&e, &b%y%&e, &b%z% &ekonumunda"

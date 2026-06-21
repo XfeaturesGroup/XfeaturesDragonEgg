@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - French Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cVous n'avez pas la permission de faire cela !"
+unknown-command: "%prefix%&cCommande inconnue ! Utilisez &e/dragonegg help"
+reload-success: "%prefix%&aConfiguration rechargée avec succès !"
+
+# Containers
+container-blocked: "%prefix%&cVous ne pouvez pas placer l'Œuf de Dragon dans &e%container%&c !"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Position de l'Œuf de Dragon ==="
+where-in-inventory: "%prefix%&eL'Œuf de Dragon est dans l'inventaire de &b%player%&e en &b%x%&e, &b%y%&e, &b%z% &edans &b%world%"
+where-in-chest: "%prefix%&eL'Œuf de Dragon est dans un coffre en &b%x%&e, &b%y%&e, &b%z% &edans &b%world%"
+where-as-block: "%prefix%&eL'Œuf de Dragon est placé comme bloc en &b%x%&e, &b%y%&e, &b%z% &edans &b%world%"
+where-placed-by: "%prefix%&7Placé par : &f%player%"
+where-last-touched-by: "%prefix%&7Dernière interaction : &f%player%"
+where-duration: "%prefix%&7Temps : &f%duration%"
+where-player-offline: "%prefix%&7(Joueur hors ligne)"
+where-player-online: "%prefix%&7(Joueur en ligne)"
+where-not-found: "%prefix%&cLa position de l'Œuf de Dragon est inconnue !"
+
+# Language
+language-usage: "%prefix%&cUtilisation : &e/dragonegg language <langue>"
+language-not-found: "%prefix%&cFichier de langue &e%language% &cintrouvable !"
+language-changed: "%prefix%&aLangue modifiée avec succès en &e%language%&a !"
+
+# Help
+help-header: "%prefix%&6=== Aide DragonEgg ==="
+help-where: "&e/dragonegg where &7- Afficher la position de l'Œuf de Dragon"
+help-language: "&e/dragonegg language <lang> &7- Changer la langue du plugin"
+help-reload: "&e/dragonegg reload &7- Recharger la configuration"
+help-help: "&e/dragonegg help &7- Afficher ce message d'aide"
+
+# Time
+time-days: "%days%j "
+time-hours: "%hours%h "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"
+where-dropped: "%prefix%&eL'Œuf de Dragon est lâché au sol en &b%x%&e, &b%y%&e, &b%z% &edans &b%world%"

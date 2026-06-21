@@ -1,0 +1,39 @@
+# XfeaturesDragonEgg - Default Messages (English)
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cYou don't have permission to do this!"
+unknown-command: "%prefix%&cUnknown command! Use &e/dragonegg help"
+reload-success: "%prefix%&aConfiguration reloaded successfully!"
+
+# Containers
+container-blocked: "%prefix%&cYou cannot place the Dragon Egg in &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Dragon Egg Location ==="
+where-in-inventory: "%prefix%&eThe Dragon Egg is in &b%player%&e's inventory at &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-in-chest: "%prefix%&eThe Dragon Egg is in a chest at &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-as-block: "%prefix%&eThe Dragon Egg is placed as a block at &b%x%&e, &b%y%&e, &b%z% &ein &b%world%"
+where-placed-by: "%prefix%&7Placed by: &f%player%"
+where-last-touched-by: "%prefix%&7Last touched by: &f%player%"
+where-duration: "%prefix%&7Time: &f%duration%"
+where-player-offline: "%prefix%&7(Player is offline)"
+where-player-online: "%prefix%&7(Player is online)"
+where-not-found: "%prefix%&cDragon Egg location is unknown!"
+
+# Language
+language-usage: "%prefix%&cUsage: &e/dragonegg language <language>"
+language-not-found: "%prefix%&cLanguage file &e%language% &cnot found!"
+language-changed: "%prefix%&aLanguage successfully changed to &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== DragonEgg Help ==="
+help-where: "&e/dragonegg where &7- Show Dragon Egg location"
+help-language: "&e/dragonegg language <lang> &7- Change plugin language"
+help-reload: "&e/dragonegg reload &7- Reload configuration"
+help-help: "&e/dragonegg help &7- Show this help message"
+
+# Time
+time-days: "%days%d "
+time-hours: "%hours%h "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"

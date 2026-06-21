@@ -1,0 +1,40 @@
+# XfeaturesDragonEgg - Polish Language File
+
+prefix: "&#9B59B6🥚 &fDragonEgg &#9B59B6» "
+no-permission: "%prefix%&cNie masz uprawnień, aby to zrobić!"
+unknown-command: "%prefix%&cNieznana komenda! Użyj &e/dragonegg help"
+reload-success: "%prefix%&aKonfiguracja została pomyślnie przeładowana!"
+
+# Containers
+container-blocked: "%prefix%&cNie możesz umieścić Smoczego Jaja w &e%container%&c!"
+
+# /dragonegg where
+where-header: "%prefix%&6=== Lokalizacja Smoczego Jaja ==="
+where-in-inventory: "%prefix%&eSmocze Jajo jest w ekwipunku gracza &b%player%&e na &b%x%&e, &b%y%&e, &b%z% &ew świecie &b%world%"
+where-in-chest: "%prefix%&eSmocze Jajo jest w skrzyni na &b%x%&e, &b%y%&e, &b%z% &ew świecie &b%world%"
+where-as-block: "%prefix%&eSmocze Jajo jest postawione jako blok na &b%x%&e, &b%y%&e, &b%z% &ew świecie &b%world%"
+where-placed-by: "%prefix%&7Postawione przez: &f%player%"
+where-last-touched-by: "%prefix%&7Ostatnio dotykane przez: &f%player%"
+where-duration: "%prefix%&7Czas: &f%duration%"
+where-player-offline: "%prefix%&7(Gracz jest offline)"
+where-player-online: "%prefix%&7(Gracz jest online)"
+where-not-found: "%prefix%&cLokalizacja Smoczego Jaja jest nieznana!"
+
+# Language
+language-usage: "%prefix%&cUżycie: &e/dragonegg language <język>"
+language-not-found: "%prefix%&cPlik językowy &e%language% &cnie został znaleziony!"
+language-changed: "%prefix%&aJęzyk został pomyślnie zmieniony na &e%language%&a!"
+
+# Help
+help-header: "%prefix%&6=== Pomoc DragonEgg ==="
+help-where: "&e/dragonegg where &7- Pokaż lokalizację Smoczego Jaja"
+help-language: "&e/dragonegg language <lang> &7- Zmień język pluginu"
+help-reload: "&e/dragonegg reload &7- Przeładuj konfigurację"
+help-help: "&e/dragonegg help &7- Pokaż tę wiadomość pomocy"
+
+# Time
+time-days: "%days%d "
+time-hours: "%hours%g "
+time-minutes: "%minutes%m "
+time-seconds: "%seconds%s"
+where-dropped: "%prefix%&eSmocze Jajo jest upuszczone na &b%x%&e, &b%y%&e, &b%z% &ew świecie &b%world%"
